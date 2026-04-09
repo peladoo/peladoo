@@ -31,7 +31,7 @@ Trabajo principalmente con tecnologías del ecosistema JavaScript, Typescript, p
 ## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,python,cpp,c,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,cpp,c,git" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ He trabajado y participado en múltiples aplicaciones, tanto del sector público
 ## 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peladoo&show_icons=true&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=peladoo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
