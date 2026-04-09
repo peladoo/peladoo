@@ -11,7 +11,7 @@
 Desarrollador orientado a la construcción de aplicaciones reales, escalables y mantenibles.
 Actualmente me desempeño como **Asesor de Modernización** en el ámbito público, participando en el desarrollo e implementación de sistemas digitales.
 
-Trabajo principalmente con tecnologías del ecosistema JavaScript, pero también tengo experiencia en backend y lenguajes como Python, C y C++.
+Trabajo principalmente con tecnologías del ecosistema JavaScript, Typescript, pero también tengo experiencia en lenguajes como Python, C y C++.
 
 ---
 
@@ -31,7 +31,7 @@ Trabajo principalmente con tecnologías del ecosistema JavaScript, pero también
 ## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,nodejs,python,c,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,python,cpp,c,git" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Trabajo principalmente con tecnologías del ecosistema JavaScript, pero también
 He trabajado y participado en múltiples aplicaciones, tanto del sector público como privado:
 
 * 🏢 Sistemas municipales (gestión, fichadas, licencias, web institucional)
-* 🚚 Plataformas logísticas (MercadoCargas)
+* 🚚 Plataformas logísticas, y de gestion administrativa
 * 📱 Apps mobile con React Native
 * ⚙️ Backends y APIs en Node y Python
 * 🧪 Proyectos experimentales y académicos
@@ -53,11 +53,11 @@ He trabajado y participado en múltiples aplicaciones, tanto del sector público
 ## 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peladoo&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peladoo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ He trabajado y participado en múltiples aplicaciones, tanto del sector público
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/peladoo/peladoo/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
